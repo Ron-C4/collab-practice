@@ -1,0 +1,29 @@
+.col-lg-2 {
+    background-color: rgb(232, 241, 233);
+    margin-top: 4vh;
+}
+
+.col-md-auto {
+    background-color: rgb(206, 209, 255);
+    margin-top: 4vh;
+}
+
+.footer-color {
+background-color: rgb(205, 214, 255);
+}
+
+.center {
+    margin-top: 10px;
+    margin-left: 46%;
+}
+
+.footer-center {
+    margin-top: 10px;
+    margin-left: 48%;
+}
+
+.nav-color {
+    background-color: rgb(205, 214, 255);
+}
+
+
